@@ -60,14 +60,14 @@ All options listed in `morpher.py` (pasted below):
 
     python process.py --src=./example/A.jpg --dest=./example/B.jpg --plot
 - In the plot mode, you can move the feature points
- ![image](example/result/plot_1.png)
+  - ![image](example/result/plot_1.png)
 - Morph process
- ![image](example/result/plot_2.png)
- ![image](example/result.gif)
+  - ![image](example/result/plot_2.png)
+  - ![image](example/result.gif)
 - From ... to ...
- ![image](example/result/0.jpg)
- ![image](example/result/18.jpg)
+  - ![image](example/result/0.jpg)
+  - ![image](example/result/18.jpg)
 
 ## License
 
-[MIT](http://alyssaq.github.io/mit-license)
+[MIT](LICENSE)
